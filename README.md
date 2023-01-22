@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://romuloms.github.io/nlw-setup/)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
